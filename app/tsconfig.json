@@ -1,0 +1,15 @@
+{
+  "extends": "../tsconfig.base",
+  "compilerOptions": {
+    "removeComments": true,
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "include": [
+    "./**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

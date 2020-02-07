@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+     "jsx": "react",
+    "sourceMap": true,
+    "outDir": "./js",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "watch": true
+  }
+}
